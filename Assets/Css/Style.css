@@ -1,4 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   color: #06863b;
   background-color: rgba(243, 235, 225, 0.863);
+}
+
+header {
+  color: red;
+  background-color: pink;
+}
+
+p {
+  color: purple;
+}
+
+h2 {
+  color: black;
+}
+
+.Titre {
+  color: brown;
 }

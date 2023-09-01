@@ -6,7 +6,7 @@
 body {
   color: #06863b;
   background-color: rgba(243, 235, 225, 0.863);
-  font-family: sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 header {
@@ -52,4 +52,3 @@ p:hover {
   color: black;
   background-color: white;
 }
-

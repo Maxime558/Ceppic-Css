@@ -37,3 +37,4 @@ git push -u origin main
 - My Brand New Logo : https://mybrandnewlogo.com/fr
 - Tail Wind Css : https://tailwindcss.com/
 - Color Picker : https://www.w3schools.com/colors/colors_picker.asp
+- Box Shadow generator : https://html-css-js.com/css/generator/box-shadow/

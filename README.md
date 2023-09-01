@@ -39,3 +39,4 @@ git push -u origin main
 - Color Picker : https://www.w3schools.com/colors/colors_picker.asp
 - Box Shadow generator : https://html-css-js.com/css/generator/box-shadow/
 - Font Google : https://fonts.google.com/
+- Font Pair : https://www.fontpair.co/

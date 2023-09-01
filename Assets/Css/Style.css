@@ -23,17 +23,20 @@ p {
   color: purple;
 }
 
-h2 {
+h1, h2 {
   color: black;
+  font-family: Arial, sans-serif;
+  font-weight: 800;
+  font-style: italic;
 }
 
-.Titre {
+/* .Titre {
   color: rgb(42, 54, 165);
 }
 
 .Titre2 {
   border-bottom: 1px solid #06863b;
-}
+} */
 
 #paragraphe {
   border: 1px solid white;

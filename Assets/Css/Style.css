@@ -60,3 +60,8 @@ p:hover {
   color: black;
   background-color: white;
 }
+
+#Astronaute {
+  width: 50%;
+  display: block;
+}

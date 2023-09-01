@@ -28,3 +28,7 @@ h2 {
 .Titre2 {
   border-bottom: 1px solid #06863b;
 }
+
+#paragraphe {
+  border: 1px solid white;
+}

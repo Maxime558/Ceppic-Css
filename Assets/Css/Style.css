@@ -23,7 +23,8 @@ p {
   color: purple;
 }
 
-h1, h2 {
+h1,
+h2 {
   color: black;
   font-family: Arial, sans-serif;
   font-weight: 800;
@@ -64,4 +65,18 @@ p:hover {
 #Astronaute {
   width: 50%;
   display: block;
+}
+
+/* h1 {
+  background: url(../Images/house-solid.svg) no-repeat;
+  padding-left: 100px;
+} */
+
+#Maison {
+  width: 8%;
+  display: inline-block;
+}
+
+header h1 {
+  display : inline-block
 }

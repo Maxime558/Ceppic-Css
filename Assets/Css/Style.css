@@ -32,3 +32,8 @@ h2 {
 #paragraphe {
   border: 1px solid white;
 }
+
+a {
+  color: rgb(37, 167, 4);
+  text-decoration: none;
+}

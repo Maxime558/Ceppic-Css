@@ -33,4 +33,4 @@ git push -u origin main
 
 ## Maquettes 
 
--Frontend Mentor : https://www.frontendmentor.io/
+- Frontend Mentor : https://www.frontendmentor.io/

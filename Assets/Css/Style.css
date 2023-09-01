@@ -16,7 +16,7 @@ body {
 
 header {
   color: red;
-  background-color: pink;
+  /* background-color: pink; */
 }
 
 p {
@@ -48,7 +48,7 @@ a:link {
 }
 
 a:visited {
-  color: yellow;
+  color: rgb(44, 17, 165);
 }
 
 a:hover {

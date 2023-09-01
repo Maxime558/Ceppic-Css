@@ -40,3 +40,4 @@ git push -u origin main
 - Box Shadow generator : https://html-css-js.com/css/generator/box-shadow/
 - Font Google : https://fonts.google.com/
 - Font Pair : https://www.fontpair.co/
+- Font Awesome : https://fontawesome.com/

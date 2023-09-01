@@ -22,5 +22,9 @@ h2 {
 }
 
 .Titre {
-  color: brown;
+  color: rgb(42, 54, 165);
+}
+
+.Titre2 {
+  border-bottom: 1px solid #06863b;
 }

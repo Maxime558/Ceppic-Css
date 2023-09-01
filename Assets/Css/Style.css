@@ -33,7 +33,17 @@ h2 {
   border: 1px solid white;
 }
 
-a {
+a:link {
   color: rgb(37, 167, 4);
   text-decoration: none;
+}
+
+a:visited {
+  color: yellow;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: black;
+  text-decoration: underline;
 }

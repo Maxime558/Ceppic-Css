@@ -29,3 +29,4 @@ git push -u origin main
 - Git Cheat Sheet : https://about.gitlab.com/images/press/git-cheat-sheet.pdf
 - CSS Garden : https://www.csszengarden.com/pages/alldesigns/
 - Style Page Dev : https://stylestage.dev/
+- Awwwards : https://www.awwwards.com/sites/opal-camera-inc

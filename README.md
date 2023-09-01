@@ -34,3 +34,4 @@ git push -u origin main
 ## Maquettes 
 
 - Frontend Mentor : https://www.frontendmentor.io/
+- My Brand New Logo : https://mybrandnewlogo.com/fr

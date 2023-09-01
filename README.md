@@ -36,3 +36,4 @@ git push -u origin main
 - Frontend Mentor : https://www.frontendmentor.io/
 - My Brand New Logo : https://mybrandnewlogo.com/fr
 - Tail Wind Css : https://tailwindcss.com/
+- Color Picker : https://www.w3schools.com/colors/colors_picker.asp

@@ -46,3 +46,9 @@ a:hover {
   color: black;
   text-decoration: underline;
 }
+
+p:hover {
+  color: black;
+  background-color: white;
+}
+

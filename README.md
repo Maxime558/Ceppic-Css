@@ -31,6 +31,7 @@ git push -u origin main
 - Style Page Dev : https://stylestage.dev/
 - Awwwards : https://www.awwwards.com/sites/opal-camera-inc
 - NWX : https://www.nwx.fr/
+- Malt : https://www.malt.fr/
 
 ## Maquettes 
 

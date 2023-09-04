@@ -30,6 +30,7 @@ git push -u origin main
 - CSS Garden : https://www.csszengarden.com/pages/alldesigns/
 - Style Page Dev : https://stylestage.dev/
 - Awwwards : https://www.awwwards.com/sites/opal-camera-inc
+- NWX : https://www.nwx.fr/
 
 ## Maquettes 
 
@@ -42,3 +43,28 @@ git push -u origin main
 - Font Pair : https://www.fontpair.co/
 - Font Awesome : https://fontawesome.com/
 - Readme.so : https://readme.so/fr/editor
+
+# Réseaux
+
+## Youtube 
+
+- Benjamin Code : https://www.youtube.com/@BenjaminCode
+- Lior Chamla : https://www.youtube.com/c/LiorCHAMLA
+- Grafikart : https://www.youtube.com/@grafikart
+- Pierre Giraud : https://www.youtube.com/@PierreGiraudcom
+- Micode : https://www.youtube.com/@Micode
+- Underscore_ : https://www.youtube.com/@Underscore_
+
+## X
+
+- Jesuisundev
+- Octave Klaba
+
+## Tiktok
+
+-Femmedetech
+
+# Site d'actualité
+
+- PJP : http://www.phoenixjp.net/news/fr/
+- Linkedin : https://fr.linkedin.com/
